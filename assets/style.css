@@ -4,18 +4,7 @@
   --bg: #fff;
 }
 
-.logo-box {
-  width: 100%;
-  display: flex;
-  justify-content: center;
-  margin-bottom: 20px;
-}
 
-.logo {
-  height: 70px; /* tweak size here */
-  object-fit: contain;
-  opacity: 0.9;
-}
 
 
 body {
