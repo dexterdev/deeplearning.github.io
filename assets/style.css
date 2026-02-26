@@ -4,17 +4,20 @@
   --bg: #fff;
 }
 
-
-
-
 body {
   background: var(--bg);
   color: var(--text);
   font-family: system-ui, sans-serif;
-  max-width: 1000px;
-  margin: 40px auto;
+  
+  /* --- MARGIN & WIDTH SETTINGS --- */
+  /* Decrease this number (e.g., 600px) for LARGER side margins */
+  /* Increase this number (e.g., 1000px) for SMALLER side margins */
+  max-width: 800px; 
+  
+  /* 40px is the Top/Bottom margin. 'auto' creates equal Left/Right margins */
+  margin: 40px auto; 
+  
   padding: 0 20px;
-      
 }
 
 h1, h2 {
@@ -35,7 +38,6 @@ ul {
   padding-left: 20px;
   line-height: 1.5;
 }
-
 
 footer {
   margin-top: 40px;
