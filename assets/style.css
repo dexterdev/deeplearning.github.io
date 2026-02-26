@@ -11,8 +11,8 @@ body {
   background: var(--bg);
   color: var(--text);
   font-family: system-ui, sans-serif;
-  max-width: 800px;
-  margin: 10px auto;
+  max-width: 1000px;
+  margin: 40px auto;
   padding: 0 20px;
       
 }
