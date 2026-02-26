@@ -12,7 +12,7 @@ body {
   /* --- MARGIN & WIDTH SETTINGS --- */
   /* Decrease this number (e.g., 600px) for LARGER side margins */
   /* Increase this number (e.g., 1000px) for SMALLER side margins */
-  max-width: 800px; 
+  max-width: 1200px; 
   
   /* 40px is the Top/Bottom margin. 'auto' creates equal Left/Right margins */
   margin: 40px auto; 
